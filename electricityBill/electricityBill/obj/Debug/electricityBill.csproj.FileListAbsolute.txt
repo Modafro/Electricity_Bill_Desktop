@@ -1,0 +1,13 @@
+c:\users\793391\source\repos\electricityBill\electricityBill\bin\Debug\electricityBill.exe.config
+c:\users\793391\source\repos\electricityBill\electricityBill\bin\Debug\electricityBill.exe
+c:\users\793391\source\repos\electricityBill\electricityBill\bin\Debug\electricityBill.pdb
+c:\users\793391\source\repos\electricityBill\electricityBill\obj\Debug\electricityBill.csprojAssemblyReference.cache
+c:\users\793391\source\repos\electricityBill\electricityBill\obj\Debug\electricityBill.frmMain.resources
+c:\users\793391\source\repos\electricityBill\electricityBill\obj\Debug\electricityBill.Properties.Resources.resources
+c:\users\793391\source\repos\electricityBill\electricityBill\obj\Debug\electricityBill.csproj.GenerateResource.cache
+c:\users\793391\source\repos\electricityBill\electricityBill\obj\Debug\electricityBill.csproj.CoreCompileInputs.cache
+c:\users\793391\source\repos\electricityBill\electricityBill\obj\Debug\electricityBill.exe
+c:\users\793391\source\repos\electricityBill\electricityBill\obj\Debug\electricityBill.pdb
+C:\Users\793391\source\repos\electricityBill\electricityBill\bin\Debug\CustomerData.dll
+C:\Users\793391\source\repos\electricityBill\electricityBill\bin\Debug\CustomerData.pdb
+C:\Users\793391\source\repos\electricityBill\electricityBill\obj\Debug\electricityBill.csproj.CopyComplete

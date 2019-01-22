@@ -1,0 +1,16 @@
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\bin\Debug\CustomerDataTests.dll
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\bin\Debug\CustomerDataTests.pdb
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\bin\Debug\CustomerData.dll
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\bin\Debug\CustomerData.pdb
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\obj\Debug\CustomerDataTests.csprojAssemblyReference.cache
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\obj\Debug\CustomerDataTests.csproj.CoreCompileInputs.cache
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\obj\Debug\CustomerDataTests.csproj.CopyComplete
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\obj\Debug\CustomerDataTests.dll
+C:\Users\793391\source\repos\electricityBill\CustomerDataTests\obj\Debug\CustomerDataTests.pdb

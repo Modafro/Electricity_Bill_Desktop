@@ -1,0 +1,10 @@
+1, Mo Sagnia, R, $6.00
+2, Ibou Sagnia, R, $110.00
+3, Alli Klein, C, $60.00
+4, Mbye Sagnia, C, $105.00
+5, Oli Bojang, I, $116.00
+6, Carla Klein, I, $199.14
+7, Abibou Bodian, C, $134.61
+8, Alex Jones, R, $6.05
+9, Donal Trump, C, $375.00
+10, Mark Albrighton, I, $181.00
