@@ -1,4 +1,4 @@
-# Electricity Bill Desktop
+# Electricity Bill Desktop Application
 An application to calculate electricity bill based on 3 different customer types
 
 ## Getting Started
